@@ -1,12 +1,13 @@
 # 🏥 Responsive-Hospital-Website-Design
 
-A simple Java-based console application to manage a library, including book inventory, member registration, issuing and returning of books. This project showcases OOP principles, collections, and file handling using Core Java.
-
+It's a healthcare platform (frontend framework) that connects patients with certified doctors, diagnostic centers, and pharmacies all in one place.
 ---
 
 ## 🧠 Project Overview
 
-This project simulates a real-world library system. It allows librarians to manage books and members and track the lending and returning of books through a command-line interface.
+This is a front-end web design project focused on creating a professional, modern, and responsive hospital website. It is built using HTML5, CSS3, and vanilla JavaScript with a mobile-first design approach to ensure seamless performance across all screen sizes and devices.
+
+The website serves as a digital presence for a hospital or medical center, offering users easy access to information like services provided, doctor profiles, and contact details.
 
 ---
 
@@ -22,23 +23,25 @@ This project simulates a real-world library system. It allows librarians to mana
 
 ## 🔧 Technologies Used
 
-- Core Java (OOP, Collections)
-- Java I/O Streams (for file-ready extension)
-- Menu-driven interface
-- Java 8+
+HTML5 – Semantic structure
+
+CSS3 – Flexbox and Grid for layout, media queries for responsiveness
+
+JavaScript – Basic interactivity and dynamic behavior
 
 ---
 
 ## 📁 Folder Structure
 
 ```
-library-management/
-├── Main.java            # Runs the app and handles menu
-├── Book.java            # Book model class
-├── Member.java          # Member model class
-├── Library.java         # Logic for managing books and members
-├── data/                # (Optional) Placeholder for book/member data
-└── README.md            # Project documentation
+Responsive Hospital Website Design/
+├── index.html           
+├── css/                
+└── style.css
+├── js/                
+└── main.js           
+├── data/                
+└── README.md           
 ```
 
 ---
