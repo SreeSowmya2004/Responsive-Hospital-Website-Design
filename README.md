@@ -1,6 +1,5 @@
 # 🏥 Responsive-Hospital-Website-Design
 
-It's a healthcare platform (frontend framework) that connects patients with certified doctors, diagnostic centers, and pharmacies all in one place.
 ---
 
 ## 🧠 Project Overview
@@ -11,13 +10,15 @@ The website serves as a digital presence for a hospital or medical center, offer
 
 ---
 
-## 🚀 Features
+## ✨ Key Features:
 
-- 📗 Add, view, and manage books
-- 👤 Register and view library members
-- 🔄 Issue and return books
-- 🧾 Menu-driven console navigation
-- 💾 File-ready structure (can be extended with file I/O)
+ - Responsive Layout: Mobile-first design that adapts to all screen sizes (phones, tablets, desktops).
+ - Hero Section: A compelling introduction with a call to action.
+ - Services Section: Displays key medical services in a grid layout.
+ - Doctor Profiles: Highlights experienced doctors with names and specializations.
+ - Contact Section: Includes address, phone, email, and working hours.
+ - Clean Navigation: Simple and intuitive navigation menu.
+ - Modular Code: HTML, CSS, and JS are organized in separate folders for scalability and maintenance.
 
 ---
 
